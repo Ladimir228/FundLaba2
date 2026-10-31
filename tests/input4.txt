@@ -1,0 +1,5 @@
+4 10
+report.txt 6 12
+photo.jpg 5 9
+notes.txt 4 8
+archive.zip 8 14

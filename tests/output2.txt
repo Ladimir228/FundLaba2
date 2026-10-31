@@ -1,0 +1,3 @@
+2 Anna Ivanova 40000
+5 Boris Petrov 50000
+7 Ivan Petrov 50000

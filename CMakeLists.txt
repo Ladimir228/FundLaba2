@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.20)
+project(Lab2 C)
+
+set(CMAKE_C_STANDARD 99)
+set(CMAKE_C_STANDARD_REQUIRED ON)
+
+add_executable(task1 1.c)
+add_executable(task2 2.c)
+add_executable(task3 3.c)
+add_executable(task4 4.c)
+add_executable(task5 5.c)
+add_executable(task6 6.c)
+add_executable(task7 7.c)
+add_executable(task8 8.c)
+add_executable(task9 9.c)
+add_executable(task10 10.c)
+
+target_link_libraries(task2 m)
+target_link_libraries(task7 m)
+target_link_libraries(task9 m)
+target_link_libraries(task10 m)

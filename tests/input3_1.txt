@@ -1,0 +1,4 @@
+ababa
+one aba two
+a b	c
+x

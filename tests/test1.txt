@@ -1,0 +1,20 @@
+-l "hello"
+-l "a b c"
+-l ""
+-r "abcde"
+-r "ab cd"
+-r ""
+-u "abcdefg"
+-u "ab cd"
+-u "a1b2c3"
+-n "a1!B2?c3"
+-n " b2!A1?"
+-n ""
+-c "first" 42
+-c "first" 42 "second"
+-c "first" 42 "AA" "skip" "BB" "skip" "CC"
+-c "first" 0 "second"
+-x "abc"
+-l "abc" "extra"
+-c "abc" -1
+-c "abc" 12abc
